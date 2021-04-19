@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AndresJejen/AndresJejen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a Data Science guy based on Bogotá. Currently, I work as a Data Engineer and Software Developer. Electronic Engineer by profession but a data lover and problem solver. I'm Jesus (Yeshua יֵשׁוּעַ) ✝✡ follower, love the church, and teach others all that I can.
 I love to share with my friends Data models, cloud projects, and electronic stuff. Don't hesitate to ask me anything. Let's take a coffee and enjoy life.
 
@@ -17,4 +14,3 @@ I love to share with my friends Data models, cloud projects, and electronic stuf
   - @andres_jejen On Twitter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm in love with my bike.
--->

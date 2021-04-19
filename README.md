@@ -6,7 +6,7 @@ I love to share with my friends Data models, cloud projects, and electronic stuf
 - 🔭 I’m currently working on RAPPI PAY the best Online Bank of LATAM.
 - 🌱 I’m currently learning Data Science and Data Engineering.
 - 👯 I’m looking to collaborate on Beitlab Tech, a disruptive High Tech Company in Colombia. We create High Quality Digital products, also we loke the Data, AI, IoT World.
-- 🤔 I’m looking for help with the creation of fairness matemathical Models. Do you hava ideas about improve fairness with less impact in accuracy?
+- 🤔 I’m looking for help with the creation of fairness matemathical Models. Do you have ideas about improve fairness with less impact in accuracy?
 - 💬 Ask me about Data Science, Data Engineering, Web development, Electronics.
 - 📫 How to reach me: 
   - gajcam@gmail.com
